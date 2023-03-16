@@ -1,0 +1,53 @@
+{
+    "name": "idlingResourcesTest",
+    "start": 1678966854846,
+    "stop": 1678966865090,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "c6f748fc-84eb-41ee-9b4f-4438b57a070b",
+    "historyId": "c255732d88c3ca2b6b70ed5b851cf935",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.IdlingResourcesTest.idlingResourcesTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.IdlingResourcesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "idlingResourcesTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.IdlingResourcesTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(54)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "checkingNumberElementsTest",
+    "start": 1678966865095,
+    "stop": 1678966868544,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "da9e10cf-39ad-4c57-bc61-a7d5deaa3156",
+    "historyId": "b29b409f13fc3029bca03bfee7805958",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.IdlingResourcesTest.checkingNumberElementsTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.IdlingResourcesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkingNumberElementsTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.IdlingResourcesTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(54)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

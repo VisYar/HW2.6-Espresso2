@@ -1,0 +1,53 @@
+{
+    "name": "checkIntentFirstWay",
+    "start": 1678966829973,
+    "stop": 1678966834656,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "5adb5df7-a256-497c-bd9a-41998dba2354",
+    "historyId": "74f0d52beda286d9b893d98fe63e7467",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.IntentSettingsSecondWayTest.checkIntentFirstWay",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.IntentSettingsSecondWayTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkIntentFirstWay"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.IntentSettingsSecondWayTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(46)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
