@@ -64,6 +64,7 @@ public class IdlingResourcesTest {
         appCompatImageButton.perform(click());
         checkedTextGallery.check(matches(isDisplayed()));
         checkedTextGallery.perform(click());
+        recycleListing.check(matches(isDisplayed()));
         recycleListing.check(matches(recyclerViewSizeMatcher(10)));
     }
 

@@ -14,14 +14,16 @@ public class CustomViewMatcher {
             String result;
 
             @Override
-            public void describeTo(Description description) { // Доп. описание ошибки
+            public void describeTo(Description description) {
                 description.appendText("List size" + matcherSize);
+                description.appendText("\nGet:");
                 description.appendText(result);
             }
 
             @Override
-            protected boolean matchesSafely(RecyclerView recyclerView) { // Проверка
-                int items = recyclerView.getAdapter().getItemCount(); // фактическое кол-во элементов
+            protected boolean matchesSafely(RecyclerView recyclerView) {
+                int items = recyclerView.getAdapter().getItemCount();
+                result = "List size: " + items;
                 return matcherSize == items;
             }
         };
